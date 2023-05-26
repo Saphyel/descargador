@@ -1,0 +1,12 @@
+[package]
+name = "descargador"
+version = "0.0.1"
+edition = "2021"
+description = "Library to download videos"
+repository = "https://github.com/saphyel/descargador"
+license = "OSL-3.0"
+
+[dependencies]
+
+[dev-dependencies]
+cargo-audit = "0.17.6"
